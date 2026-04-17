@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.app
+build/
+dist/
+\n# Dependencies
+CMakeCache.txt
+CMakeFiles/
+_Makefile
+cmake_install.cmake\n# IDE
+.vscode/
+.idea/
+*.swp\n# OS
+.DS_Store
+Thumbs.db\n# Misc
+*.log
